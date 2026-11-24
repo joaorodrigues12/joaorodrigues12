@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-rodrigues-alves-1592b9255/"><img src="./assets/linkedin.png" alt="LinkedIn" width="122" height="32"></a>
   &nbsp;
-  <a href="https://github.com/joaorodrigues12?tab=repositories"><img src="./assets/repositorios.png" alt="Todos os repositórios" width="165" height="32"></a>
+  <a href="mailto:jpralves12@gmail.com"><img src="./assets/email.png" alt="E-mail: jpralves12@gmail.com" width="205" height="32"></a>
 </p>
 
 ## Projetos em destaque
