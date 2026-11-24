@@ -1,5 +1,20 @@
 <img src="./assets/abertura-backend.jpg" width="100%" alt="João Rodrigues, desenvolvedor backend Java. Spring Boot, APIs e integração IoT.">
 
+<p align="center">
+  <strong>Engenheiro de Software</strong> · Backend Java
+</p>
+
+<p align="center">
+  <code>Java</code> · <code>Spring Boot</code> · <code>PostgreSQL</code> · <code>AWS</code><br>
+  <code>Git</code> · <code>Docker Compose</code> · <code>GitHub Actions</code> · <code>Python</code> · <code>MQTT</code>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-rodrigues-alves-1592b9255/"><img src="./assets/linkedin.png" alt="LinkedIn" width="122" height="32"></a>
+  &nbsp;
+  <a href="https://github.com/joaorodrigues12?tab=repositories"><img src="./assets/repositorios.png" alt="Todos os repositórios" width="165" height="32"></a>
+</p>
+
 ## Projetos em destaque
 
 <a href="https://github.com/joaorodrigues12/esp32-fleet-simulator-mqtt"><img src="./assets/projeto-esp32.jpg" width="100%" alt="ESP32 Fleet Simulator · Python, MQTT e Docker Compose"></a>
@@ -34,9 +49,7 @@ Gerenciador de tarefas no terminal para cadastrar, listar, concluir e filtrar ta
 
 Projeto acadêmico de um aplicativo móvel que reúne notícias financeiras e usa IA para gerar resumos e analisar o sentimento das notícias.
 
-## Ferramentas
-
-**Java · Spring Boot** · Python · MQTT · Docker Compose · GitHub Actions
+## Sobre mim
 
 <details>
 <summary>Sobre meu foco em backend</summary>
@@ -44,5 +57,3 @@ Projeto acadêmico de um aplicativo móvel que reúne notícias financeiras e us
 Estudo Engenharia de Software e compartilho projetos de APIs, ferramentas de terminal e integração com dispositivos IoT. Tenho interesse em modelagem de domínio, testes automatizados e documentação que ajude a rodar o projeto.
 
 </details>
-
-[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-rodrigues-alves-1592b9255/) · [Todos os repositórios](https://github.com/joaorodrigues12?tab=repositories)
